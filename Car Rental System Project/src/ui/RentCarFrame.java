@@ -46,7 +46,7 @@ public class RentCarFrame extends JFrame {
             } else {
                 JOptionPane.showMessageDialog(this, "Failed to rent car!");
             }
-        });
+        }
 
         cancelButton.addActionListener(e -> dispose());
     }
