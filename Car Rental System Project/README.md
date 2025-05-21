@@ -2,7 +2,7 @@
 Object Oriented Programming
 
 **Guvi Project**
-
+Galgotias University
 **2025**
 
 **Submitted by:**
@@ -70,7 +70,7 @@ Your database will now be set up with all required tables and sample data.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Java-GUI-Project.git
+   git clone https://github.com/parvkajla/Car-Rental-System-Java
 2. Set Up MySQL Database
 
      Open MySQL client.
